@@ -15,3 +15,9 @@ Additionally, you'll need to download the Chrome WebDriver for your Chrome brows
 1. Run the provided cells in the notebook.
 2. The notebook will automatically navigate to Flipkart, search for mobile phones, and extract their names and prices.
 3. Names and prices will be displayed in the console.
+
+
+---
+
+
+This README provides a brief overview of the Flipkart Mobile Phones and Prices project, including installation instructions, usage guidelines.
