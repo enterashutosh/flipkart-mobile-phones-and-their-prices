@@ -5,10 +5,7 @@ This project utilizes Selenium to scrape mobile phone names and prices from Flip
 ## Installation
 
 Ensure you have Selenium installed. You can install it using pip:
-
-```bash
-pip install selenium
-'''
+`pip install selenium`
 
 Additionally, you'll need to download the Chrome WebDriver for your Chrome browser.
 
